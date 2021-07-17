@@ -17,7 +17,7 @@ Keras 2.4.3
 kerassurgeon 0.2.0
 tensorflow 2.3.0
 sklearn 0.0
-h5py==2.10.0
+h5py 2.10.0
 pandas 1.1.5
 zipp 3.4.1
 numpy 1.18.5
