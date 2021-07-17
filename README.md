@@ -21,8 +21,8 @@ h5py 2.10.0
 pandas 1.1.5
 zipp 3.4.1
 numpy 1.18.5
-folium0.2.1
-imgaug0.2.6
+folium 0.2.1
+imgaug 0.2.6
 ```
 <strong>* Resulta de suma importancia utilizar las versiones 2.3.0 de TensorFlow y 0.20 de Keras Surgeon. Si esto no es así fácilmente pueden surgir problemas de compatibilidad.</strong>
 
